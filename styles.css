@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+.container{
+	width:1100px;
+}
+.col{
+	width:200px;
+}
+.mid{
+	width:600px;
+}
+table,td,tr{
+	border:1px solid black;
+}
